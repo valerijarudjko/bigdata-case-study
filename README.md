@@ -34,3 +34,24 @@ ________________
 5.	Can the same information on the presence of potential customers in physical stores be gathered from customers who visit the service centers in foreign cities? 
 
 6.	Foreign customers can visit the physical center to return or exchange garments. How can Big Data techniques help optimize this process and improve the response for both the customer and the company?
+---------
+## Bibliography
+ - https://business.columbia.edu/research-brief/secret-to-gettingconsumers-to-trust-personalized-recommendation-services
+ - https://cloud.google.com/learn/what-is-big-data?hl=en
+ - https://explodingtopics.com/blog/data-analytics-stats
+ - https://lpsonline.sas.upenn.edu/features/5-key-reasons-why-dataanalytics-important-business
+ - https://www.bain.com/insights/how-brands-can-embrace-thesustainable-fashion-opportunity/
+ - https://www.cambridgespark.com/blog/5-ways-data-analytics-can-boostyour-operational-efficiency
+ - https://www.databricks.com/blog/2020/01/27/time-series-forecastingprophet-spark.html
+ - https://www.deepl.com/en/translator
+ - https://www.emarketer.com/content/many-gen-zers-product-branddiscovery-happens-on-social-media
+ - https://www.emarketer.com/content/state-of-uk-fashion-ecommerce2025
+ - https://www.emarketer.com/content/worldwide-retail-ecommerceforecast-2025-midyear-edition
+ - https://www.globalresponse.com/blog/call-center-optimization-big-dataanalytics
+ - https://www.i-scoop.eu/customer-experience/customer-experiencecontact-center-challenge
+ - https://www.iqmetrix.com/blog/do-in-store-and-online-analytics-differ
+ - https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Analytics/Our%20Insights/Global%20survey%20The%20state%20of%20AI%20in%202021/Global-survey-The-state-of-AI-in-2021.pdf
+ - https://www.mckinsey.com/~/media/mckinsey/industries/retail/our%20insights/state%20of%20fashion/2023/the-state-of-fashion-2023-holdingonto-growth-as-global-clouds-gathers-vf.pdf
+ - https://www.reverselogix.com/industry-updates/the-role-of-dataanalytics-in-improving-returns-management/
+ - https://www.vastdata.com/blog/storage-in-the-era-of-big-data-andanalytics
+ - Provost, F., & Fawcett, T. (2013). Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking. O’Reilly. 
