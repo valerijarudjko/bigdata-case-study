@@ -2,6 +2,7 @@
 
 This project analyses a family-owned textile company transitioning from local operations to international markets through online sales and data-driven strategies. It focuses on applying Big Data techniques, and creating a dedicated social media monitoring team to better understand customer behavior and market trends. The case also examines differences between domestic and international sales models, highlighting the need for tailored approaches. Objectives include improving decision-making, enhancing customer experience, and increasing global competitiveness through technology and process innovation.
 
+![reporting life cycle]( https://github.com/valerijarudjko/bigdata-case-study/blob/main/Reporting%20Life%20Cycle.png)
 --------
 
 ## The Textile Company: Background
